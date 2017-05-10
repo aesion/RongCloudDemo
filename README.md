@@ -8,7 +8,11 @@
 
 ## 截图 ##
 
-![](\photo\QQ图片20170510113126.jpg)
+![](photo/QQ图片20170510113126.jpg)
+
+![](https://raw.githubusercontent.com/aesion/RongCloudDemo/master/photo/QQ%E5%9B%BE%E7%89%8720170510113126.jpg)
+
+![](/photo/QQ图片20170510113126.jpg)
 
 
 
